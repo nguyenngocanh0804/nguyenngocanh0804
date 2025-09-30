@@ -1,0 +1,42 @@
+<svg width="1200" height="300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Nền hồng -->
+  <rect width="1200" height="300" fill="pink"/>
+
+  <!-- Chữ HELLO! trắng đậm có viền đen -->
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+        font-size="100" font-family="Arial Black, Arial, sans-serif"
+        fill="white" stroke="black" stroke-width="4">
+    HELLO!
+    <animate attributeName="fill" 
+             values="white;#ffe6f2;white" 
+             dur="2s" 
+             repeatCount="indefinite"/>
+  </text>
+
+  <!-- Con thỏ trắng cute không viền -->
+  <g transform="translate(800,120) scale(0.8)">
+    <!-- Thân -->
+    <ellipse cx="100" cy="120" rx="60" ry="80" fill="white"/>
+    <!-- Tai trái -->
+    <ellipse cx="70" cy="40" rx="20" ry="50" fill="white"/>
+    <!-- Tai phải -->
+    <ellipse cx="130" cy="40" rx="20" ry="50" fill="white"/>
+    <!-- Đầu -->
+    <circle cx="100" cy="80" r="50" fill="white"/>
+    <!-- Mắt -->
+    <circle cx="85" cy="75" r="6" fill="black"/>
+    <circle cx="115" cy="75" r="6" fill="black"/>
+    <!-- Mũi -->
+    <circle cx="100" cy="90" r="5" fill="pink"/>
+    <!-- Miệng -->
+    <path d="M95 100 Q100 110 105 100" stroke="pink" stroke-width="2" fill="none"/>
+    <!-- Tay trái -->
+    <ellipse cx="55" cy="120" rx="20" ry="30" fill="white"/>
+    <!-- Tay phải -->
+    <ellipse cx="145" cy="120" rx="20" ry="30" fill="white"/>
+    <!-- Chân trái -->
+    <ellipse cx="80" cy="190" rx="25" ry="20" fill="white"/>
+    <!-- Chân phải -->
+    <ellipse cx="120" cy="190" rx="25" ry="20" fill="white"/>
+  </g>
+</svg>
