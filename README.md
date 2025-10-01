@@ -33,4 +33,22 @@
 - Hợp tác và phục vụ khách hàng: Phát triển kỹ năng giao tiếp, tư vấn sáng tạo để hiểu rõ yêu cầu khách hàng, từ đó mang đến trải nghiệm dịch vụ trọn vẹn và sản phẩm thiệp cưới ấn tượng.
 
   ---
-🌸**SẢN PHẨM CÁ NHÂN :**   
+🌸**SẢN PHẨM CÁ NHÂN :** 
+- **LOGO THƯƠNG HIỆU**
+<p align="center">
+  <img src="https://github.com/nguyenngocanh0804/nguyenngocanh0804/blob/e097d14ed27ddac09319e568a493c34c99d6bd96/%E1%BA%A2nh%20ch%E1%BB%A5p%20m%C3%A0n%20h%C3%ACnh%202024-05-08%20214528.png" alt="Kỹ năng" width="400"/>
+</p>
+
+- **THIẾT KẾ CD**
+<p align="center">
+  <img src="https://github.com/nguyenngocanh0804/nguyenngocanh0804/blob/e097d14ed27ddac09319e568a493c34c99d6bd96/%E1%BA%A2nh%20ch%E1%BB%A5p%20m%C3%A0n%20h%C3%ACnh%202024-06-16%20201416.png" alt="Kỹ năng" width="400"/>
+</p>
+
+- **THIẾT KẾ GIAN HÀNG MĨ PHẨM 3D**  
+<p align="center">
+  <img src="https://github.com/nguyenngocanh0804/nguyenngocanh0804/blob/e097d14ed27ddac09319e568a493c34c99d6bd96/%E1%BA%A2nh%20ch%E1%BB%A5p%20m%C3%A0n%20h%C3%ACnh%202025-06-16%20003535.png" alt="Kỹ năng" width="400"/>
+</p>
+
+
+
+
