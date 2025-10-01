@@ -1,7 +1,11 @@
 ![Hello Banner](banner.svg)
-🌸**THÔNG TIN CÁ NHÂN:**  
+
+🌸**THÔNG TIN CÁ NHÂN:**  <p align="center">
+  <img src="https://github.com/nguyenngocanh0804/nguyenngocanh0804/blob/5a940152a8de44d89bf9d9d68f80b4483e614699/ta%CC%89i%20xu%C3%B4%CC%81ng%20(37).jpg" alt="Kỹ năng" width="200"/>
+</p>
+
 - Họ và tên: Nguyễn Ngọc Ánh  
-- Năm sinh:08/04/2005  
+- Năm sinh:08/04/2005
 - Liên lạc:  
 🌐Gmail: ngocanh080425@gmail.com  
 🌐Facebook: https://www.facebook.com/ng.ngocanh0804  
