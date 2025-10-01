@@ -1,8 +1,8 @@
 ![Hello Banner](banner.svg)
 🌸**THÔNG TIN CÁ NHÂN:**  
-Họ và tên: Nguyễn Ngọc Ánh  
-Năm sinh:08/04/2005  
-Liên lạc:  
+- Họ và tên: Nguyễn Ngọc Ánh  
+- Năm sinh:08/04/2005  
+- Liên lạc:  
 🌐Gmail: ngocanh080425@gmail.com  
 🌐Facebook: https://www.facebook.com/ng.ngocanh0804  
 🌐Instagram:https://www.instagram.com/ngng.anh/?igsh=b3pybGFxdHo0NnBu&utm_source=qr
@@ -10,8 +10,27 @@ Liên lạc:
 ---
 
 🌸**HỌC VẤN:**  
-Cấp 1: Tiểu học Hiếu Liêm  
-Cấp 2: THCS Lạc An    
-Cấp 3: THPT Thường Tân  <br> 
-Hiện nay: Học viện Công nghệ Bưu chính Viễn thông cơ sở TP.HCM<br>   
+- Cấp 1: Tiểu học Hiếu Liêm  
+- Cấp 2: THCS Lạc An    
+- Cấp 3: THPT Thường Tân  <br> 
+- Hiện nay: Học viện Công nghệ Bưu chính Viễn thông cơ sở TP.HCM<br>   
 
+---
+
+🌸**KỸ NĂNG:**   
+- Giao tiếp:             🌸🌸🌸🌸🌸░░░░░░70%
+- Làm việc nhóm:         🌸🌸🌸🌸🌸🌸🌸░░░░ 80%
+- Quản lý thời gian:     🌸🌸🌸🌸🌸🌸🌸░░░░░░70%
+- Thích nghi môi trường: 🌸🌸🌸🌸🌸░░░░░░░░░░ 50%
+- Tin học:               🌸🌸🌸🌸🌸░░░░░░░░░░ 50%
+
+---
+
+🌸**MỤC TIÊU NGHỀ NGHIỆP :**   
+🎨Là một sinh viên ngành Công nghệ Đa phương tiện với đam mê thiết kế, tôi hướng tới việc trở thành nhà thiết kế và in ấn thiệp cưới chuyên nghiệp. Mục tiêu của tôi là:
+- Phát triển kỹ năng thiết kế sáng tạo: Tạo ra các mẫu thiệp cưới độc đáo, tinh tế, kết hợp giữa phong cách hiện đại và truyền thống, đáp ứng nhu cầu đa dạng của khách hàng.
+- Xây dựng thương hiệu cá nhân: Tạo dựng phong cách thiết kế riêng, đồng thời hiểu rõ xu hướng thị trường để phát triển dịch vụ in ấn thiệp cưới uy tín, chuyên nghiệp.
+- Hợp tác và phục vụ khách hàng: Phát triển kỹ năng giao tiếp, tư vấn sáng tạo để hiểu rõ yêu cầu khách hàng, từ đó mang đến trải nghiệm dịch vụ trọn vẹn và sản phẩm thiệp cưới ấn tượng.
+
+  ---
+🌸**SẢN PHẨM CÁ NHÂN :**   
